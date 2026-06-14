@@ -7,7 +7,7 @@ export const DATA = {
   url: "https://portfolio-salsabila.vercel.app",
   location: "Bandung, Indonesia",
   locationLink: "https://google.com/maps",
-  description: "Undergraduate student in Information Systems and Technology at ITB, passionate about project management and business development.",
+  description: "Undergraduate student in Information Systems and Technology at ITB Ganesha, passionate about project management and business development.",
   summary: "Undergraduate student in Information Systems and Technology at Institut Teknologi Bandung with hands-on experience in project coordination, business development, competition organizing, and organizational management. Proven track record in business case competitions, incubator programs, and large-scale events. Skilled in structured problem solving, stakeholder coordination, research-driven decision making, and cross-functional collaboration. Seeking opportunities as a Project Manager Intern or Business Development Intern in technology-driven environments.",
   avatarUrl: "/me.png",
 
