@@ -17,17 +17,17 @@ export const DATA = {
   avatarUrl: "/me.png",
 
   skills: [
-    { name: "Project Management" },
-    { name: "Business Development" },
-    { name: "Stakeholder Management" },
-    { name: "Data Analysis" },
-    { name: "Research & Analysis" },
-    { name: "UI/UX Design" },
-    { name: "Figma" },
-    { name: "Python" },
-    { name: "Java" },
-    { name: "C" },
-    { name: "Git" }
+    "Project Management",
+    "Business Development",
+    "Stakeholder Management",
+    "Data Analysis",
+    "Research & Analysis",
+    "UI/UX Design",
+    "Figma",
+    "Python",
+    "Java",
+    "C",
+    "Git"
   ],
 
   navbar: [
@@ -244,44 +244,4 @@ export const DATA = {
       href: "https://github.com/SalsabilaShofiyah/Web-Portofolio-DRPL", 
       dates: "2026",
       active: true,
-      description: "A responsive portfolio website built to showcase personal projects, professional experiences, and competition achievements.",
-      technologies: ["React", "Next.js", "Tailwind CSS"],
-      links: [
-        {
-          type: "Source",
-          href: "https://github.com/SalsabilaShofiyah/Web-Portofolio-DRPL",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/project.png", 
-      video: "", 
-    },
-  ],
-
-  hackathons: [
-    {
-      title: "Do Well Do Good Business Case Competition",
-      dates: "2025",
-      location: "2nd Winner - National",
-      description: "Proposed an end-to-end solution for an F&B MSME focusing on product development, digital strategy, and marketing optimization.",
-      image: "/dwdgipb.png",
-      links: [],
-    },
-    {
-      title: "Integrated Youth Renewable Energy Festival",
-      dates: "2025",
-      location: "3rd Winner - National",
-      description: "Proposed an end-to-end solution for Pertamina Renewable Energy for the biogas industry.",
-      image: "/iyref.png",
-      links: [],
-    },
-    {
-      title: "Share UI Business Case Competition",
-      dates: "2024",
-      location: "Top 10 Finalist - National",
-      description: "Ranked Top 10 nationally with a case study on merger and acquisition strategy in the banking industry.",
-      image: "/shareui.png",
-      links: [],
-    }
-  ],
-}
+      description: "A responsive portfolio website built to showcase personal projects
