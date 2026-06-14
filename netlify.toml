@@ -1,5 +1,5 @@
 [build]
-  command = "pnpm run build"
+  command = "pnpm content-collections build && pnpm run build"
   publish = ".next"
 
 [[plugins]]
