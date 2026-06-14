@@ -42,6 +42,7 @@
   "devDependencies": {
     "@content-collections/core": "^0.13.1",
     "@content-collections/next": "^0.2.10",
+    "@netlify/plugin-nextjs": "^5.15.11",
     "@tailwindcss/typography": "^0.5.19",
     "@types/node": "^25.0.3",
     "@types/react": "^19.2.7",
